@@ -2,8 +2,8 @@ A problem once solved should not be solved again
 ======================
 :star: Star us on GitHub — it helps!
 
-![Contributions welcome](https://img.shields.io/badge/Version-1.0-grey.svg)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+![Version](https://img.shields.io/badge/Version-1.0-grey.svg)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/omkarjc27/Snippet-Index/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Languages**
