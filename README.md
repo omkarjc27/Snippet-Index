@@ -22,23 +22,14 @@ It is accesible through the Web UI, API and IDE integrations
 
 ## Table of content
 
-- [Usage]()
-    - [Web UI](#webui)
-    - [API](/API_DOCS.md)
-    - [IDEs Integrations](#ides)
+- [Web UI](https://snip-index.herokuapp.com/)
+- [API](/API_DOCS.md) 
+- [IDEs Integrations](#ides)
 - [Coming Soon..](#coming-soon)
 - [Add Snippets](#add-snippets)
 
-
-## WebUI
-**[The WEB UI is up and running](https://snip-index.herokuapp.com/).**
-
-It currently Suports Python. 
-
-Support for other languages coming soon...
-
 ## IDEs
-Currently No IDEs Supported
+**Sorry.** Currently No IDEs are Supported
 
 Sublime Text Plugin UnderDevelopment...
 
