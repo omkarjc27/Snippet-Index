@@ -48,7 +48,10 @@ Sublime Text Plugin UnderDevelopment...
 - Sublime Text Plugin
 
 ## Add Snippets
+Current Database is crawled from [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 
 To add your own Snippets/Functions/Classes to the Database
 
-Submit your code or link to your code/repository [here](https://github.com/omkarjc27/Snippet-Index/issues). Along with a little explaination about what it does. 
+Submit your code or link to your code/repository [here](https://github.com/omkarjc27/Snippet-Index/issues). 
+
+Along with a little explaination about what it does. 
