@@ -39,7 +39,7 @@ Sublime Text Plugin UnderDevelopment...
 - Sublime Text Plugin
 
 ## Add Snippets
-Current Database is crawled from [TheAlgorithms](https://github.com/TheAlgorithms/Python)
+Current Database is crawled from [TheAlgorithms](https://github.com/TheAlgorithms/Python) and [arnauddri/algorithms](https://github.com/arnauddri/algorithms)
 
 To add your own Snippets/Functions/Classes to the Database
 
