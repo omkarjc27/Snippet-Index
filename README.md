@@ -9,7 +9,7 @@ A problem once solved should not be solved again
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-Supported-brightgreen.svg)
-![GoLang](https://img.shields.io/badge/GoLang-UnderConstruction-yellow.svg)
+![GoLang](https://img.shields.io/badge/GoLang-Supported-brightgreen.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-UnderConstruction-yellow.svg)
 ![Rust](https://img.shields.io/badge/Rust-ComingSoon...-orange.svg)
 
@@ -25,7 +25,7 @@ It is accesible through the Web UI, API and IDE integrations
 - [Web UI](https://snip-index.herokuapp.com/)
 - [API](/API_DOCS.md) 
 - [IDEs Integrations](#ides)
-- [Coming Soon..](#coming-soon)
+- [Coming Soon....](#coming-soon)
 - [Add Snippets](#add-snippets)
 
 ## IDEs
@@ -34,8 +34,8 @@ It is accesible through the Web UI, API and IDE integrations
 Sublime Text Plugin UnderDevelopment...
 
 ## Coming Soon
-- GoLang Support
 - JavaScript Support
+- Rust Support
 - Sublime Text Plugin
 
 ## Add Snippets
