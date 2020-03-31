@@ -1,5 +1,6 @@
 # API
 
+#### General Format
 ```
 snip-index.herokuapp.com / <mode> / <language-code> / <parameters>
 ```
