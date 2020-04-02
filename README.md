@@ -30,7 +30,7 @@ It is accesible through the Web UI, API and IDE integrations
 
 ## IDEs
 
-#### Sublime Text Plugin
+[**Sublime Text Plugin**](https://github.com/omkarjc27/sublime-snipet-index)
 
 ![Demo](demo.gif)
 
