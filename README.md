@@ -29,9 +29,10 @@ It is accesible through the Web UI, API and IDE integrations
 - [Add Snippets](#add-snippets)
 
 ## IDEs
-**Sorry.** Currently No IDEs are Supported
 
-Sublime Text Plugin UnderDevelopment...
+#### Sublime Text Plugin
+
+![Demo](sublime_demo.gif)
 
 ## Coming Soon
 - JavaScript Support
