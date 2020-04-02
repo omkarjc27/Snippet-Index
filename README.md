@@ -32,7 +32,7 @@ It is accesible through the Web UI, API and IDE integrations
 
 #### Sublime Text Plugin
 
-![Demo](sublime_demo.gif)
+![Demo](demo.gif)
 
 ## Coming Soon
 - JavaScript Support
