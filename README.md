@@ -6,8 +6,6 @@ A problem once solved should not be solved again
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/omkarjc27/Snippet-Index/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-Supported-brightgreen.svg)
 [![API](https://img.shields.io/badge/API-v0.1.0-brightgreen.svg)](https://snip-index.herokuapp.com/)
 [![WebUI](https://img.shields.io/badge/WebUI-Working-brightgreen.svg)](https://snip-index.herokuapp.com/)
