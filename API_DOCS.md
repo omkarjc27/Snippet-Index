@@ -6,31 +6,38 @@ snip-index.herokuapp.com / <mode> / <language-code> / <parameters>
 ```
 
 
-#### Language-Codes
-- **py** : Python 
-- **go** : GoLang 
-- **js** : JavaScript 
+- **Language-Codes**
+  - **py** : Python
+- **Modes**
+  - **Search**
+    - Parameters 
+        1. No of Results
+        2. Keywords for Search
+  - **fetch** 
+    - Parameters 
+        1. Hash Key of Code to fetch
 
-## Modes
-### Search
-```
-All Parameters Seperated By Spaces
-Parameters: <number of results wanted> <keyword1> <keyword2> <keyword3> ......
 
-eg: 20 bubble sort // Returns first 20 results for query bubble sort for required language  
+#### Examples
+
+**1>** Returns first 20 results for query "bubble sort" for required language.
+(Sorted according to their popularity and concordance)
 ```
-**Returns** a JSON List of Results in following format
-```
+> snip-index.herokuapp.com/search/py/20 bubble sort 
+
+Result :
+
 [
   [
-    Similarity Between Query and this Snippet.
-    Hash Value of this Snippet. (Used While Fetch)
-    Snippet Name.
-    Snippet Description.
+    0:Similarity Score(Between 0 to 1) 
+    1:No of times this algo is used by others
+    2:Hash Value of this Snippet. (Used While Fetch,See the next example)
+    3:Algo/Function/Class Name.
+    4:Snippet Description.
   ]
   [
-    Similarity Between Query and this Snippet.
-    Hash Value of this Snippet. (Used While Fetch)
+    0:Similarity Score(Between 0 to 1) 
+    1:No of times this algo is used by others
     .
     .
   ]
@@ -39,17 +46,14 @@ eg: 20 bubble sort // Returns first 20 results for query bubble sort for require
 ]
 ```
 
-### Fetch
 
+**2>** Returns Source Code corresponding to given Hash  
 ```
-Parameter: <hash key of result>
+> snip-index.herokuapp.com/fetch/py/69dcb9989cff99fcdba7e82651a6f3
 
-eg: 69dcb9989cff99fcdba7e82651a6f3... // Returns Source Code corresponding to given Hash  
-
-```
-**Returns** a JSON list with single element i.e. Source Code 
-```
+Result :
 [
   "def bubble_sort(collection):\n    \"\"\"Pure implementation of bubble sort ......
 ]
+
 ```
