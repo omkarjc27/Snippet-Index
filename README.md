@@ -2,16 +2,22 @@ A problem once solved should not be solved again
 ======================
 :star: Star us on GitHub — it helps!
 
-![Version](https://img.shields.io/badge/Version-1.0-grey.svg)
+![Version](https://img.shields.io/badge/Version-0.1-grey.svg)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/omkarjc27/Snippet-Index/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-Supported-brightgreen.svg)
-![GoLang](https://img.shields.io/badge/GoLang-UnderConstruction-yellow.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-UnderConstruction-yellow.svg)
-![Rust](https://img.shields.io/badge/Rust-ComingSoon...-orange.svg)
+[![API](https://img.shields.io/badge/API-v0.1.0-brightgreen.svg)](https://snip-index.herokuapp.com/)
+[![WebUI](https://img.shields.io/badge/WebUI-Working-brightgreen.svg)](https://snip-index.herokuapp.com/)
+[![Sublime Text Plugin](https://img.shields.io/badge/SublimeText-Working-brightgreen.svg)](https://github.com/omkarjc27/sublime-snipet-index)
+
+[![Vim Plugin](https://img.shields.io/badge/Vim-UnderConstruction-yellow.svg)](https://github.com/horwreed/Snippit-vim)
+![VSCode Plugin](https://img.shields.io/badge/VSCode-UnderConstruction-yellow.svg)
+
+![GoLang](https://img.shields.io/badge/GoLang-ComingSoon...-orange.svg)
+![Java](https://img.shields.io/badge/Java-ComingSoon...-orange.svg)
 
 ## Basic Overview
 
@@ -25,25 +31,27 @@ It is accesible through the Web UI, API and IDE integrations
 - [Web UI](https://snip-index.herokuapp.com/)
 - [API](/API_DOCS.md) 
 - [IDEs Integrations](#ides)
-- [Coming Soon....](#coming-soon)
+- [Language Support](#language-support)
 - [Contributing Guidelines](#contributing)
 
 ## IDEs
 
-[**Sublime Text Plugin**](https://github.com/omkarjc27/sublime-snipet-index)
+- [Sublime Text Plugin](https://github.com/omkarjc27/sublime-snipet-index)
+- [Vim Plugin](https://github.com/horwreed/Snippit-vim) (Not Completed)
+- VSCode Plugin (Not Completed)
 
-![Demo](demo.gif)
-
-## Coming Soon
-- JavaScript Support
-- Rust Support
-- Sublime Text Plugin
+## Language Support
+- Python (Current Version Supports Python)
+- GoLang (Under Development)
+- Java (Under Development)
+- JavaScript (Not Planned Yet)
+- Rust (Not Planned Yet)
 
 ## Contributing
 
 Current Database is crawled from [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 
-Communicating happens on [Discord](https://discord.gg/8m3d9Bn)
+Communication happens on [Discord](https://discord.gg/8m3d9Bn)
 
 **For Beginners**
 
