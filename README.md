@@ -26,7 +26,7 @@ It is accesible through the Web UI, API and IDE integrations
 - [API](/API_DOCS.md) 
 - [IDEs Integrations](#ides)
 - [Coming Soon....](#coming-soon)
-- [Add Snippets](#add-snippets)
+- [Contributing](#contributing)
 
 ## IDEs
 
@@ -39,7 +39,26 @@ It is accesible through the Web UI, API and IDE integrations
 - Rust Support
 - Sublime Text Plugin
 
-## Add Snippets
+## Contributing
+
 Current Database is crawled from [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 
-To add your own Snippets/Functions/Classes to the Database, Add Your code [Here](https://github.com/omkarjc27/Snippet-Index/tree/master/Python). Follow the format given in snippet.py
+Communicating happens on [Discord](https://discord.gg/8m3d9Bn)
+
+As you know its best to learn by doing.
+Pick any algo you want and implement it in python over here.
+
+To add your own Snippets/Functions/Classes to the Database,
+1. Fork the repo.
+2. Clone the forked version to your local machine.
+3. Create a file inside ```Python/``` folder of the repo.
+4. Add your code to it.
+5. Push and Commit.
+6. Create a Pull Request.
+
+The code should be well documented. Follow format in [Python/snippet.py](https://github.com/omkarjc27/Snippet-Index/blob/master/Python/snippet.py)
+The coding style is currently flexible,
+just make sure your code is readable and well documented.
+
+Also if you can create plugins for any IDE/Text-Editor.
+Let us know on Discord.
