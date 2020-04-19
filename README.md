@@ -9,7 +9,7 @@ A problem once solved should not be solved again
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-Supported-brightgreen.svg)
-![GoLang](https://img.shields.io/badge/GoLang-Supported-brightgreen.svg)
+![GoLang](https://img.shields.io/badge/GoLang-UnderConstruction-yellow.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-UnderConstruction-yellow.svg)
 ![Rust](https://img.shields.io/badge/Rust-ComingSoon...-orange.svg)
 
