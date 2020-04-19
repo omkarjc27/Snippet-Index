@@ -26,7 +26,7 @@ It is accesible through the Web UI, API and IDE integrations
 - [API](/API_DOCS.md) 
 - [IDEs Integrations](#ides)
 - [Coming Soon....](#coming-soon)
-- [Contributing](#contributing)
+- [Contributing Guidelines](#contributing)
 
 ## IDEs
 
