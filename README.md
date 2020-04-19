@@ -40,10 +40,6 @@ It is accesible through the Web UI, API and IDE integrations
 - Sublime Text Plugin
 
 ## Add Snippets
-Current Database is crawled from [TheAlgorithms](https://github.com/TheAlgorithms/Python) and [arnauddri/algorithms](https://github.com/arnauddri/algorithms)
+Current Database is crawled from [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 
-To add your own Snippets/Functions/Classes to the Database
-
-Submit your code or link to your code/repository [here](https://github.com/omkarjc27/Snippet-Index/issues). 
-
-Along with a little explaination about what it does. 
+To add your own Snippets/Functions/Classes to the Database, Add Your code [Here](https://github.com/omkarjc27/Snippet-Index/tree/master/Python). Follow the format given in snippet.py
