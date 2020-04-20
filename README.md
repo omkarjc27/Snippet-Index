@@ -13,8 +13,8 @@ A problem once solved should not be solved again
 ![GoLang](https://img.shields.io/badge/GoLang-UnderConstruction-yellow.svg)
 ![Java](https://img.shields.io/badge/Java-ComingSoon...-orange.svg)
 
-![VSCode Plugin](https://img.shields.io/badge/VSCodePlugin-Ready-brightgreen.svg)
-[![SublimeText](https://img.shields.io/badge/SublimText..-Ready-brightgreen.svg)](https://github.com/omkarjc27/sublime-snipet-index)
+![VSCode Plugin](https://img.shields.io/badge/VSCodePlugin-v1.0-brightgreen.svg)
+[![SublimeText](https://img.shields.io/badge/SublimTextPlugin-v1.0.3-brightgreen.svg)](https://github.com/omkarjc27/sublime-snipet-index)
 [![Vim Plugin](https://img.shields.io/badge/VimPlugin-UnderConstruction-yellow.svg)](https://github.com/horwreed/Snippit-vim)
 
 
@@ -22,9 +22,9 @@ A problem once solved should not be solved again
 - [**What is Snippet Index:question:**](#overview)
 - [**Browse it using a Web UI :earth_asia:**](https://snip-index.herokuapp.com/)
 - [**How to use the API? :rocket:**](/API_DOCS.md) 
-- [**How is the development going ? :wrench:**](#development)
+- [**How's the development going ? :wrench:**](#development)
 - [**How can I Contribute? :computer:**](#contribution-guidelines)
-- [**Join us Discord** :mega:](https://discord.gg/8m3d9Bn)
+- [**Join us on Discord** :mega:](https://discord.gg/8m3d9Bn)
 - [**:muscle: See Various Interfaces in action...**](/Demo/Demo.md)
 
 ## Overview
@@ -54,7 +54,7 @@ It is browsable through the WebUI, API and IDE integrations.
 
 ## Contribution Guidelines
 
-[**Join us Discord** :mega:](https://discord.gg/8m3d9Bn)
+[**Join us on Discord** :mega:](https://discord.gg/8m3d9Bn)
 
 ### For Beginners
 
