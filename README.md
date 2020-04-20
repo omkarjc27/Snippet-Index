@@ -36,7 +36,7 @@ It is accesible through the Web UI, API and IDE integrations
 
 - [Sublime Text Plugin](https://github.com/omkarjc27/sublime-snipet-index)
 - [Vim Plugin](https://github.com/horwreed/Snippit-vim) (Not Completed)
-- VSCode Plugin (Not Completed)
+- [VSCode Plugin](https://github.com/MeijerM1/vscode-snippet-index) (Not Completed)
 
 ## Language Support
 - Python (Current Version Supports Python)
