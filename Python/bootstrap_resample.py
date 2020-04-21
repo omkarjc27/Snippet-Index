@@ -1,15 +1,10 @@
 """
     @author: thehalfspace
-
     References:https://www.wikiwand.com/en/Bootstrapping_(statistics)
-
 """
 
-from numpy import floor 
-from numpy.random import rand
-
 def bootstrap_resample(X, size=None):
-    """ Bootstrap resample an array_like data n times
+    """ Bootstrap resample an array_like data
         
         Input parameters:
         ----------------
@@ -23,8 +18,10 @@ def bootstrap_resample(X, size=None):
         Returns:
         --------
             X_resample: resampled data X
-
     """
+    from numpy import floor 
+    from numpy.random import rand
+    
     n = X.shape[0]
     if n <=0:
         raise ValueError("data must contain atleast one measurement.")

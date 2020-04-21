@@ -1,14 +1,10 @@
 """
     @author: thehalfspace
-
     References: https://www.wikiwand.com/en/Jackknife_resampling
-
 """
 
-from numpy import  mean, zeros, delete
-
 def jackknife_resample(X):
-    """ Bootstrap resample an array_like data n times
+    """ Jackknife resample an array_like data
         
         Input parameters:
         ----------------
@@ -21,8 +17,9 @@ def jackknife_resample(X):
                 returns resampled data where the ith row
                 is the original sample with ith measurement
                 deleted.
-
     """
+    from numpy import zeros, delete
+    
     n = X.shape[0]
     if n <=0:
         raise ValueError("data must contain atleast one measurement.")
