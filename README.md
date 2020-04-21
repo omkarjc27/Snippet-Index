@@ -13,7 +13,7 @@ A problem once solved should not be solved again
 ![GoLang](https://img.shields.io/badge/GoLang-UnderConstruction-yellow.svg)
 ![Java](https://img.shields.io/badge/Java-ComingSoon...-orange.svg)
 
-![VSCode Plugin](https://img.shields.io/badge/VSCodePlugin-v1.0-brightgreen.svg)
+![VSCode Plugin](https://img.shields.io/badge/VSCodePlugin-v1.0.0-brightgreen.svg)
 [![SublimeText](https://img.shields.io/badge/SublimTextPlugin-v1.0.3-brightgreen.svg)](https://github.com/omkarjc27/sublime-snipet-index)
 [![Vim Plugin](https://img.shields.io/badge/VimPlugin-UnderConstruction-yellow.svg)](https://github.com/horwreed/Snippit-vim)
 
@@ -36,13 +36,6 @@ It is browsable through the WebUI, API and IDE integrations.
 
 ## Development
 
-| IDE/Text-Editors  Plugins   | Status                                                                 |
-| --------------------------- | :--------------------------------------------------------------------: |
-| **Sublime Text Plugin**     | [**Released** (v1.0.3):tada:](https://github.com/omkarjc27/sublime-snipet-index) |
-| **VSCode Plugin**           | [**Released** (v1.0.0):tada:](https://github.com/MeijerM1/vscode-snippet-index)  |
-| **Vim Plugin**              | [**Under Development** :wrench:](https://github.com/horwreed/Snippit-vim) |
-
-
 | Languages       | Status  |
 | --------------- | :----------------------------: |
 | **Python**      | :heavy_check_mark: `Supported` |
@@ -52,33 +45,30 @@ It is browsable through the WebUI, API and IDE integrations.
 | **Rust**        | :pencil: `Not Planned Yet`     |
 
 
+| IDE/Text-Editors  Plugins   | Status                                                                 |
+| --------------------------- | :--------------------------------------------------------------------: |
+| **Sublime Text Plugin**     | [**Released** (v1.0.3):tada:](https://github.com/omkarjc27/sublime-snipet-index) |
+| **VSCode Plugin**           | [**Released** (v1.0.0):tada:](https://github.com/MeijerM1/vscode-snippet-index)  |
+| **Vim Plugin**              | [**Under Development** :wrench:](https://github.com/horwreed/Snippit-vim) |
+
+
 ## Contribution Guidelines
 
-[**Join us on Discord** :mega:](https://discord.gg/8m3d9Bn)
+#### [Join us on Discord :mega:](https://discord.gg/8m3d9Bn)
 
-### For Beginners
-
+#### For Python devs
 As you know **its best to learn by doing**.
-Pick any algo you want and implement it in python over here.
+- **Pick any algo** you want and, 
+- **implement it** in python then, 
+- **test it** and then,
+- **add it** to the [**ADD-Snippet Web Portal**](https://snip-index.herokuapp.com/add)
 
-To add your own Snippets/Functions/Classes to the Database,
-1. **Fork** the repo. :trident:
-2. **Clone** the forked version to your local machine.
-3. **Create** a file inside ```Python/``` folder of the repo.
-4. Add your **code** to it and test it.
-5. **Push and Commit**.
-6. Create a **Pull Request**.
-
-The code should be **well documented**. Follow **format in [Python/snippet.py](https://github.com/omkarjc27/Snippet-Index/blob/master/Python/snippet.py)**
-The coding style is currently flexible,
-just make sure your code is **readable** and well documented.
+**PS** : Follow the format given in the [**ADD-Snippet Web Portal**](https://snip-index.herokuapp.com/add) and make sure your code is **readable** and **well documented**.
 
 
-### For IDE plugin devs
+#### If you can create plugins/extensions for any IDE/Text-Editor. Let us know on [Discord](https://discord.gg/8m3d9Bn).
 
-If you can create plugins/extensions for any IDE/Text-Editor.
-
-Let us know on [Discord](https://discord.gg/8m3d9Bn).
+**For feature request create an [Issue]().**
 
 ## Credits
 
